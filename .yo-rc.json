@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Adrian Rylski",
+      "authorEmail": "rylski@me.com",
+      "authorUrl": ""
+    }
+  }
+}
